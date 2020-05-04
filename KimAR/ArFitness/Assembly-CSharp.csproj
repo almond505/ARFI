@@ -64,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\rigi.cs" />
-    <Compile Include="Assets\Scripts\ImageRec.cs" />
+    <Compile Include="Assets\Scripts\collideButton.cs" />
     <Compile Include="Assets\Scripts\ScreenSpaceJointVisualizer.cs" />
     <Reference Include="Unity.XR.Management">
       <HintPath>D:/My Files/Documents/almond/Desktop+/AR Fitness/AR Beat/ARFI/KimAR/ArFitness/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
